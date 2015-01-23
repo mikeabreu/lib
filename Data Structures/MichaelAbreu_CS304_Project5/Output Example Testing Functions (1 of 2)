@@ -1,0 +1,390 @@
+//	Example Output 2 of 2
+//
+//	
+//
+//	Tests the load function, as well as to make 
+//	sure data is still intact.
+
+
+
+Welcome to my Sports League Maker!
+
+This program will keep track of sports teams and their ranks.
+You will have the ability to add/remove teams, view the teams in the league,
+and change the rank of a team. Lets get started!
+
+Would you like to load your league from a file? yes or no: 
+no
+Starting a new league.
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 2
+Enter a team name to remove: team
+Sorry team is not a team in this league.
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 3
+Choose a traversal order:
+1: Preorder
+2: Inorder (Alphabetically
+3: Postorder
+> 1
+There are no teams in your league.
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 3
+Choose a traversal order:
+1: Preorder
+2: Inorder (Alphabetically
+3: Postorder
+> 2
+There are no teams in your league.
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 3
+Choose a traversal order:
+1: Preorder
+2: Inorder (Alphabetically
+3: Postorder
+> 3
+There are no teams in your league.
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 4
+Number of teams: 0
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 5
+Enter a team name to search for: team
+Sorry team is not a team in this league.
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 1
+Enter team name to add: team L
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 1
+Enter team name to add: team M
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 1
+Enter team name to add: team A
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 1
+Enter team name to add: team K
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 1
+Enter team name to add: team R
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 1
+Enter team name to add: team P
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 1
+Enter team name to add: team B
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 3
+Choose a traversal order:
+1: Preorder
+2: Inorder (Alphabetically
+3: Postorder
+> 1
+The tree in Preorder is:
+
+team L
+
+team A
+
+team K
+
+team B
+
+team M
+
+team R
+
+team P
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 3
+Choose a traversal order:
+1: Preorder
+2: Inorder (Alphabetically
+3: Postorder
+> 2
+The tree in Inorder is:
+
+team A
+
+team B
+
+team K
+
+team L
+
+team M
+
+team P
+
+team R
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 3
+Choose a traversal order:
+1: Preorder
+2: Inorder (Alphabetically
+3: Postorder
+> 3
+The tree in Postorder is:
+
+team B
+
+team K
+
+team A
+
+team P
+
+team R
+
+team M
+
+team L
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 4
+Number of teams: 7
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 5
+Enter a team name to search for: team A
+team A is a team in the league.
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 5
+Enter a team name to search for: team C
+Sorry team C is not a team in this league.
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 2
+Enter a team name to remove: team M
+team M was removed from the league.
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 3
+Choose a traversal order:
+1: Preorder
+2: Inorder (Alphabetically
+3: Postorder
+> 2
+The tree in Inorder is:
+
+team A
+
+team B
+
+team K
+
+team L
+
+team P
+
+team R
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 5
+Enter a team name to search for: team M
+Sorry team M is not a team in this league.
+
+Choose an operation:
+1: Add a team
+2: Remove a team
+3: Display the teams (traversal order)
+4: Number of teams
+5: Search for a team
+6: Save and Quit
+7: Quit
+
+Enter choice: 6
+Enter a filename to save to: 
+abc.teams
