@@ -2,7 +2,6 @@ Java Library
 ===========
 
 Author: Michael Abreu
-Last Update: 1-23-2015
 
 ## Description
 
