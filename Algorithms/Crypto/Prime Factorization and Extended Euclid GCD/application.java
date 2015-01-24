@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * Created by Michael Abreu on 1/6/2015.
  */
-public class ExtendedEuclidGCD {
+public class Application {
 
     // Main Method
     public static void main(String[] args) {
