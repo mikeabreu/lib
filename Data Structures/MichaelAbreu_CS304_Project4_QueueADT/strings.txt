@@ -1,6 +1,0 @@
-5
-String Two
-String Three
-String basics number two
-I can keep adding these things here.
-This also could be used like a paragraph.
