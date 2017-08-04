@@ -1,6 +1,6 @@
 # Code Library
 
-This GitHub repository was created to store code that I've wrote. Anyone is welcome to use my code for their purpose abiding to the GNU License.
+This GitHub repository was created to store code that I've wrote. Anyone is welcome to use my code for their purpose abiding to the MIT License.
 
 ## How to Use this Repo
 
