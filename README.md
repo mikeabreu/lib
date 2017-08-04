@@ -7,6 +7,7 @@ This GitHub repository was created to store code that I've wrote. Anyone is welc
 In order to organize the repo I have divided the different programming languages to their respective branch.
 
 `git clone https://github.com/mikeabreu/lib /opt/
+
 cd /opt/lib`
 
 To checkout any of the branches
