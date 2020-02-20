@@ -1,4 +1,4 @@
-#/usr/bin/env bash
+#!/usr/bin/env bash
 
 OPERATING_SYSTEM=""
 OPERATING_SYSTEM_VERSION=""
